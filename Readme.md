@@ -1,4 +1,4 @@
-# ⚖️ AI Travel Team Agents
+# 🧭✈️ AI Travel Team Agents
 
 ## 🚀 Overview
 AI-powered **Fitness Planner  Agents** designed to assist with **contract analysis, legal research, risk assessment, and compliance checks**.  
@@ -13,7 +13,7 @@ This system processes **legal documents (PDFs)** using advanced AI models and kn
 
 ## 🛠️ Installation Guide
 
-### **1️⃣ Clone the Repository**
+###  Clone the Repository**
 
 ```bash
 git clone https://github.com/your-repo/legal-ai-agents.git
