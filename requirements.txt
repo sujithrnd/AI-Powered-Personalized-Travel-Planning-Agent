@@ -1,0 +1,14 @@
+# Core Framework & Providers
+agno[openai,serpapi]==2.3.19
+
+# Web Framework
+streamlit>=1.35.0
+ddgs
+
+# Tools & Utilities
+# Explicitly required for DuckDuckGoTools
+duckduckgo-search>=6.0.0
+# Required for SerpApiTools (GoogleSearch)
+google-search-results>=2.4.2
+# Environment variable management
+python-dotenv>=1.0.1
