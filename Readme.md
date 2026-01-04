@@ -13,7 +13,7 @@ This system processes **legal documents (PDFs)** using advanced AI models and kn
 
 ## 🛠️ Installation Guide
 
-###  Clone the Repository**
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/your-repo/legal-ai-agents.git
