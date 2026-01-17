@@ -9,7 +9,8 @@ This system processes **legal documents (PDFs)** using advanced AI models and kn
 🔹 Perform contract analysis, legal research & risk assessment  
 🔹 Receive structured legal reports  
 
-
+**User Interface **
+<img width="1916" height="1020" alt="travel1" src="https://github.com/user-attachments/assets/d497b7c2-2b86-40a6-acf7-1cf725a8b791" />
 
 ```bash
 git clone https://github.com/your-repo/legal-ai-agents.git
